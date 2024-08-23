@@ -11,5 +11,6 @@ const addNewImages = function (noOfImages) {
 };
 
 btn.addEventListener("click", () => {
-  addNewImages(10);
+  addNewImages(8);
 });
+
